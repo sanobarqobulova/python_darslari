@@ -1,0 +1,4 @@
+New York	New York
+London	London
+Paris	Paris
+New Delhi	New Delhi
