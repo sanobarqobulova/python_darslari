@@ -1,1 +1,2 @@
-# python_darslari
+# python_lessons
+There are lessons related to python.
